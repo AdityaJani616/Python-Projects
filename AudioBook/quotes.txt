@@ -1,0 +1,4 @@
+Good Morning Everyone
+Quotes of the day for Programmers:
+* "Knowledge is Power" -Francis Bacon
+* "First,solve the problem.Then Write the code." -John Johnson
